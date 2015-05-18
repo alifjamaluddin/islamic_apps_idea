@@ -12,13 +12,14 @@ Anda juga boleh senaraikan aplikasi islamik disini.
 
 
 # IDEA
-
+<!-- * <Idea anda> - <Penerangan>. Idea oleh: <Nama anda> (<Contact anda>) -->
 * Mutabaah Ibadah
 Aplikasi yang digunakan untuk pengguna muslim menilai prestasi ibadah mereka. Sebagai contoh, pengguna boleh meletakkan berapa helai al-Quran yang telah dibaca dan boleh melihat graf bacaan tersebut.
 Idea oleh: Alif Jamaluddin (email: alifjamaluddin92@gmail.com)
 
 
-# APLIKASI DI PASARAN 
+<!-- # APLIKASI DI PASARAN  -->
+
 
 
 FAQ/Contact
