@@ -2,7 +2,7 @@
 
 Ruangan ini dibuat untuk <b>programmer</b> dapatkan idea untuk membuat aplikasi-aplikasi yang berkaitan dengan Islam.
 
-Idea-idea di dalam ruangan ini boleh ditambah dengan 2 cara iaitu dengan <i>pull request</i> dan juga melalui laman web di <a href="http://www.kodegeek.net/islamicappidea/">sini</a>
+Idea-idea di dalam ruangan ini boleh ditambah dengan 2 cara iaitu dengan <i>pull request</i> dan juga melalui laman web di <a href="http://www.kodegeek.ninja/islamicappidea/">sini</a>
 
 Anda juga boleh senaraikan aplikasi islamik disini.
 
@@ -15,7 +15,7 @@ Anda juga boleh senaraikan aplikasi islamik disini.
 <!-- * <Idea anda> - <Penerangan>. Idea oleh: <Nama anda> (<Contact anda>) -->
 * Mutabaah Ibadah - Aplikasi yang digunakan untuk pengguna muslim menilai prestasi ibadah mereka. Sebagai contoh, pengguna boleh meletakkan berapa helai al-Quran yang telah dibaca dan boleh melihat graf bacaan tersebut.
 <br/>
-Idea oleh: Alif Jamaluddin (email: alifjamaluddin92@gmail.com)
+Idea oleh: Alif Jamaluddin (<a href="https://github.com/alifjamaluddin">alifjamaluddin</a>)
 
 * Jalan Jalan Hari Raya - Pada Hari Raya Aidilfitri dan Aidiladha, umat Islam digalakkan untuk kunjung-mengunjung dari rumah ke rumah. Jika tidak dirancang, kemungkinan mereka perlu berulang-alik, contohnya dari Rumah A di Taman A pergi ke Rumah B di Taman B, kemudian patah balik ke Taman A untuk ziarah Rumah C. Bagi melancarkan perjalanan, pengguna boleh menggunakan aplikasi untuk memilih beberapa lokasi kemudian aplikasi akan memberikan laluan yang paling optimum.
 <br/>
@@ -37,4 +37,4 @@ Idea oleh: Burhanuddin Baharuddin (<a href="https://github.com/burhanloey">burha
 
 FAQ/Contact
 * Alif Jamaluddin
-* <a href="http://www.kodegeek.net">Website</a>
+* <a href="http://www.kodegeek.ninja">Website</a>
