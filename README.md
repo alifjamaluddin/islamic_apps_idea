@@ -25,7 +25,7 @@ Idea oleh: Burhanuddin Baharuddin (<a href="https://github.com/burhanloey">burha
 <br/>
 Idea oleh: Burhanuddin Baharuddin (<a href="https://github.com/burhanloey">burhanloey</a>)
 
-* Rangkaian Perawi Hadis - Hadis dhaif dan hadis palsu ditentukan berdasarkan siapa yang merawikan hadis tersebut. Perawi hadis boleh merawikan lebih daripada sebuah hadis. Oleh itu, semua hadis-hadis ini boleh digambarkan dalam bentuk satu rangkaian atau network seperti data structure 'tree'. Nama-nama perawi hadis kemudiannya boleh ditanda menggunakan warna font, contohnya merah untuk pemalsu hadis, dan kuning untuk yang diragui.
+* Rangkaian Perawi Hadis - Hadis dhaif dan hadis palsu ditentukan berdasarkan siapa yang merawikan hadis tersebut. Perawi hadis boleh merawikan lebih daripada sebuah hadis. Oleh itu, semua hadis-hadis ini boleh digambarkan dalam bentuk satu rangkaian atau network seperti data structure 'tree'. Nama-nama perawi hadis kemudiannya boleh ditanda menggunakan warna font, contohnya merah untuk pemalsu hadis, kuning untuk yang diragui, dan hijau untuk perawi hadis sahih.
 <br/>
 Idea oleh: Burhanuddin Baharuddin (<a href="https://github.com/burhanloey">burhanloey</a>)
 
